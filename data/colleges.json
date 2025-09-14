@@ -1,0 +1,20 @@
+[
+  {
+    "name": "MIT",
+    "country": "USA",
+    "specialization": ["AI", "Robotics", "Computer Science"],
+    "tuition": "High"
+  },
+  {
+    "name": "University of Toronto",
+    "country": "Canada",
+    "specialization": ["AI", "Data Science", "Finance"],
+    "tuition": "Medium"
+  },
+  {
+    "name": "IIT Delhi",
+    "country": "India",
+    "specialization": ["Engineering", "AI", "Management"],
+    "tuition": "Low"
+  }
+]
